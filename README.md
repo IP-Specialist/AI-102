@@ -1,57 +1,61 @@
-AI-102: Microsoft Azure AI Engineer Associate – Hands-on Labs
-Course Introduction
+# AI-102: Microsoft Azure AI Engineer Associate – Hands-on Labs #
 
-This repository contains hands-on labs aligned with the AI-102: Designing and Implementing a Microsoft Azure AI Solution certification. The labs are designed to provide practical, real-world experience in building AI solutions using Microsoft Azure, following the latest Microsoft exam blueprint.
+**Overview**
+This repository provides a complete set of hands-on labs for the AI-102: Designing and Implementing a Microsoft Azure AI Solution certification. The labs are designed to help learners build real-world AI solutions using Microsoft Azure, following the latest Microsoft exam skills outline.
 
-The course focuses on designing, implementing, and managing intelligent applications using modern Azure AI services, including generative AI, natural language processing, computer vision, knowledge mining, and AI agents. Each lab is structured to simulate real enterprise scenarios, enabling learners to bridge the gap between theory and production-ready AI development.
+Each lab focuses on practical implementation of Azure AI services, including generative AI, natural language processing, computer vision, document intelligence, knowledge mining, and AI agents. The goal is to bridge the gap between theoretical knowledge and production-ready AI engineering skills.
 
-What You Will Learn
+**What This Repository Covers**
+This repository includes end-to-end lab scenarios that simulate enterprise AI use cases. You will learn how to design, build, and deploy intelligent solutions using Azure AI services and SDKs.
 
-Through this repository, you will gain hands-on experience in building end-to-end AI solutions using Azure AI services.
+**Core Topics Covered**
+Azure AI solution planning and management
+Generative AI applications using Azure OpenAI Service
+Working with models like GPT-4o
+Natural Language Processing (NLP) solutions
+Computer Vision and image understanding
+Document Intelligence and form processing
+Knowledge mining using Azure AI Search
+AI agents and multi-agent systems
+Prompt engineering and RAG-based architectures
+Responsible AI practices, safety, and evaluation
 
-Core Learning Areas:
-Planning and managing Azure AI solutions
-Building generative AI applications using Azure OpenAI Service and models like GPT-4o
-Implementing natural language processing (NLP) solutions
-Developing computer vision and document intelligence applications
-Creating knowledge mining and intelligent search solutions using Azure AI Search
-Designing and deploying AI agents and workflows
-Applying responsible AI principles, safety controls, and evaluation techniques
-Lab Structure
-
-Each lab in this repository is designed to reflect real-world business use cases and follows a consistent learning pattern:
-
-Introduction – Concept overview and scenario context
-Problem Statement – Real-world business challenge
-Implementation Steps – Guided hands-on development
-Validation & Testing – Output verification and evaluation
-Who This Repository Is For
-
-This repository is ideal for:
+This repository is designed for:
 
 Aspiring Azure AI Engineers
 Developers preparing for the AI-102 certification
-Cloud and AI practitioners working with Azure AI services
-Professionals building generative AI and intelligent applications
-Learners interested in AI agents, RAG systems, and multimodal AI
-Prerequisites
+Cloud engineers working with AI solutions
+Data professionals transitioning into AI roles
+Anyone interested in generative AI and Azure AI services
 
-To get the most out of these labs, it is recommended to have:
+**Prerequisites**
+
+Before starting the labs, it is recommended to have:
 
 Basic understanding of cloud computing (AZ-900 level knowledge)
 Familiarity with Python or C#
-Understanding of REST APIs and JSON
-Basic knowledge of AI/ML concepts (helpful but not mandatory)
-Purpose of This Repository
+Basic understanding of REST APIs and JSON
+Introductory knowledge of AI/ML concepts (optional but helpful)
 
-The goal of this repository is to provide a practical, exam-aligned learning path that prepares learners for real-world Azure AI engineering scenarios. Instead of focusing only on theory, these labs emphasize implementation, experimentation, and applied problem-solving using Azure AI services.
 
-Certification Alignment
+**Learning Outcomes**
+By completing these labs, you will be able to:
 
-All labs are mapped to the official Microsoft AI-102 skills outline, including:
+Build end-to-end AI solutions using Azure services
+Develop generative AI applications with Azure OpenAI
+Implement intelligent search and knowledge mining systems
+Work with AI agents and orchestration frameworks
+Process documents, images, and multimodal data
+Apply responsible AI principles in real applications
+Prepare effectively for the AI-102 certification exam
+Recommended Study Resource
 
-Plan and manage Azure AI solutions
-Implement generative AI workloads
-Build NLP, vision, and search-based applications
-Develop AI agents and automation workflows
-Ensure responsible AI implementation and evaluation
+To enhance your preparation for the AI-102 certification, you may also refer to a structured study guide with practice questions and labs:
+
+https://ipspecialist.net/product/ai-102-designing-and-implementing-a-microsoft-azure-ai-solution-study-guide-with-practice-questions-and-labs-first-edition
+
+This resource complements these labs by reinforcing key concepts, exam patterns, and practical scenarios.
+
+**Disclaimer**
+
+This repository is independently developed for educational purposes only and is not affiliated with Microsoft or IPSpecialist. External resources are shared solely to support additional learning.
