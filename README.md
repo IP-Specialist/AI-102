@@ -1,14 +1,17 @@
 # AI-102: Microsoft Azure AI Engineer Associate – Hands-on Labs #
 
 **Overview**
+
 This repository provides a complete set of hands-on labs for the AI-102: Designing and Implementing a Microsoft Azure AI Solution certification. The labs are designed to help learners build real-world AI solutions using Microsoft Azure, following the latest Microsoft exam skills outline.
 
 Each lab focuses on practical implementation of Azure AI services, including generative AI, natural language processing, computer vision, document intelligence, knowledge mining, and AI agents. The goal is to bridge the gap between theoretical knowledge and production-ready AI engineering skills.
 
 **What This Repository Covers**
+
 This repository includes end-to-end lab scenarios that simulate enterprise AI use cases. You will learn how to design, build, and deploy intelligent solutions using Azure AI services and SDKs.
 
 **Core Topics Covered**
+
 Azure AI solution planning and management
 Generative AI applications using Azure OpenAI Service
 Working with models like GPT-4o
